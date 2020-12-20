@@ -7,7 +7,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hi</h1>
+        <h1>Kom maar door met dat kerstfuifje!</h1>
+        <p>Om je te helpen met je kerstplaylist, kan je met deze keuzehulp je perfecte hitjes vinden!</p>
+
 
       <button
         style="
