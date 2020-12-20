@@ -8,3 +8,7 @@ h1 {
   font-family: 'Lobster', cursive;
   color: #2e5033;
 }
+
+.container {
+  margin: 0 auto ;
+}
