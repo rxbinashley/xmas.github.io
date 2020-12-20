@@ -27,6 +27,7 @@
       <script src="https://app.aiden.cx/webshop/aiden-embedded.min.js" async></script>
     </div>
    <script src="snowflakes.js"></script>
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </body>
 
 </html>
