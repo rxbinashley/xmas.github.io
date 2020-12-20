@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1></h1>
+        <h1>Hi</h1>
     </div>
    <script src="snowflakes.js"></script>
 </body>
