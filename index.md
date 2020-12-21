@@ -9,12 +9,11 @@
     <div class="container">
         <h1>Kom maar door met dat kerstfuifje!</h1>
         <p>Om je te helpen met je kerstplaylist, kan je met deze keuzehulp je perfecte hitjes vinden!</p>
-
-
-      <button
+        </div>
+         <button
         style="
           border: none;
-          background: #ffcb1b;
+          background: #ffe263;
           color: #000000;
           padding: 1rem 2rem;
           font-size: inherit;
@@ -26,8 +25,6 @@
         Start keuzehulp
       </button>
 
-      <script src="https://app.aiden.cx/webshop/aiden-embedded.min.js" async></script>
-    </div>
        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
    <script src="snowflakes.js"></script>
 </body>
