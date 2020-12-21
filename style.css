@@ -12,3 +12,7 @@ h1 {
 .container {
   margin: 0 auto ;
 }
+
+.container-lg .px-3 .my-5 .markdown-body {
+  display: none;
+}
