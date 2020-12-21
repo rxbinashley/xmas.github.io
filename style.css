@@ -16,3 +16,8 @@ h1 {
 .container-lg .px-3 .my-5 .markdown-body {
   display: none;
 }
+
+button {
+  background: #2e5033;
+  
+}
